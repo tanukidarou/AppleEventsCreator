@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.809.10
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppleEventsCreator", "AppleEventsCreator\AppleEventsCreator.csproj", "{C91F7E4B-8659-453A-9686-12BEA8399076}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppleEventsCreator", "AppleEventsCreator\AppleEventsCreator.csproj", "{7131EDF1-BABF-4C42-88E8-256E1963C40F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C91F7E4B-8659-453A-9686-12BEA8399076}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C91F7E4B-8659-453A-9686-12BEA8399076}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C91F7E4B-8659-453A-9686-12BEA8399076}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C91F7E4B-8659-453A-9686-12BEA8399076}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7131EDF1-BABF-4C42-88E8-256E1963C40F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7131EDF1-BABF-4C42-88E8-256E1963C40F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7131EDF1-BABF-4C42-88E8-256E1963C40F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7131EDF1-BABF-4C42-88E8-256E1963C40F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
