@@ -2,17 +2,15 @@
 
 namespace AppleEventsCreator
 {
-    public class AppleEvent
+    public readonly struct AppleEvent
     {
-        public DateTime CreateDateTime { get; }
         public DateTime StartDateTime { get; }
         public DateTime EndDateTime { get; }
         public string Summary { get; }
         public string Description { get; }
 
-        public AppleEvent(DateTime createDateTime, DateTime startDateTime, DateTime endDateTime, string summary, string description)
+        public AppleEvent(DateTime startDateTime, DateTime endDateTime, string summary, string description)
         {
-            CreateDateTime = createDateTime;
             StartDateTime = startDateTime;
             EndDateTime = endDateTime;
             Summary = summary;
